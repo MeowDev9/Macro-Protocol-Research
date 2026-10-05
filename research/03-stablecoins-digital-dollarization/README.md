@@ -19,10 +19,7 @@ Are stablecoins creating a new monetary system, or are they giving the existing 
 - [`methodology.md`](methodology.md) — research scope, assumptions, and interpretation
 - [`sources.md`](sources.md) — primary sources and supporting research
 
-## Macro Protocol
+## Published Research
 
-This research accompanies the Macro Protocol video:
-
-**How Stablecoins Are Spreading the Dollar**
-
-The full written research note is published separately on Macro Protocol.
+- **YouTube:** [How Stablecoins Are Spreading the Dollar](https://youtu.be/5akEi52mCgo?si=0MvhO24jG2Ubr7Cz)
+- **Substack:** [Stablecoins and Digital Dollarization: What the Data Actually Shows](https://macroprotocol.substack.com/p/stablecoins-and-digital-dollarization)
